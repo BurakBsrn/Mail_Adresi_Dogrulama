@@ -1,0 +1,30 @@
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.exe
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.deps.json
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.runtimeconfig.json
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.dll
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.pdb
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.AssemblyInfo.cs
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.dll
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\refint\ConsoleApp32.dll
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.pdb
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.genruntimeconfig.cache
+C:\Users\burak\source\repos\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ref\ConsoleApp32.dll
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.exe
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.deps.json
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.runtimeconfig.json
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.dll
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\bin\Debug\net6.0\ConsoleApp32.pdb
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.csproj.AssemblyReference.cache
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.AssemblyInfoInputs.cache
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.AssemblyInfo.cs
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.csproj.CoreCompileInputs.cache
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.dll
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\refint\ConsoleApp32.dll
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.pdb
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ConsoleApp32.genruntimeconfig.cache
+E:\C# Çalışmaları\ConsoleApp32\ConsoleApp32\obj\Debug\net6.0\ref\ConsoleApp32.dll
